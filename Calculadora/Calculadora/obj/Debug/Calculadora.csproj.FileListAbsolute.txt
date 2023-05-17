@@ -1,0 +1,5 @@
+C:\Users\014bo\OneDrive - Universidad Mariano Gálvez\INGENIERIA_2023\Compiladores\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\014bo\OneDrive - Universidad Mariano Gálvez\INGENIERIA_2023\Compiladores\Calculadora\Calculadora\obj\Debug\Calculadora.FormCalculadora.resources
+C:\Users\014bo\OneDrive - Universidad Mariano Gálvez\INGENIERIA_2023\Compiladores\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\014bo\OneDrive - Universidad Mariano Gálvez\INGENIERIA_2023\Compiladores\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\014bo\OneDrive - Universidad Mariano Gálvez\INGENIERIA_2023\Compiladores\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
